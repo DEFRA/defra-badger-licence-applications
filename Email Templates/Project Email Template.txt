@@ -1,0 +1,14 @@
+Dear Badger Vaccination Project Lead,
+
+We confirm that the following individual associated with your project has successfully completed registration for their licence: {name}
+
+Based on the information provided to us at registration they may: {activity}
+
+They have been provided with a 6 digit licence reference number. This can be used to access the TRAPP reporting APP. 
+
+If you have any questions, please contact us at badger.vaccination@defra.gov.uk 
+
+
+Yours sincerely 
+TB Programme, Animal & Plant Health & Welfare 
+Department for Environment, Food and Rural Affairs (Defra) 

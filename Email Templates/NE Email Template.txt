@@ -1,0 +1,21 @@
+Natural England, 
+
+We have received an application for CL48 with the following details: 
+
+Full name: {full_name}
+Telephone number: {tel_num}
+Email address: {email}
+Chosen activity: {chosen_activity}
+Training completed: {training}{other_training_desc}
+Read and understood the license conditions: {license_agreement}
+Permission to use another wildlife licence withdrawn: {license_withdrawn}{license_withdrawn_desc}
+Subject to any ongoing enforcement action: {enforcement_action}{enforcement_action_desc}
+
+
+Can you advise whether it is appropriate for this person to register in the chosen activity. 
+If applicable, please also confirm whether Natural England authorises this person to use licence CL49.
+
+Kind regards, 
+
+TB Programme, Animal & Plant Health & Welfare
+Department for Environment, Food and Rural Affairs (Defra)
