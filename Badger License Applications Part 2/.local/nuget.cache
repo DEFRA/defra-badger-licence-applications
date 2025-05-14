@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AvL3iz12T79c7piYAJV/Sdyt/VSqYzicu1qRxxvLvNHhtgx39OQJx+N3UJpqJkEqy/Uc8nU9Cu8ed/cyvA+Yiw==",
+  "dgSpecHash": "j4yQFIddIc7V4CLUx+tMVY8yECsufaOwVQ4Zp8diaxRJ0GpLqBHix6TuEMIkh4Se7okI0lM1HbTCZZHYfQq3Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ws000012\\OneDrive - Defra\\Documents\\UiPath\\Badger License Applications Part 2\\.local\\",
+  "projectFilePath": "C:\\Users\\ws000012\\OneDrive - Defra\\UiPath\\Github\\defra-badger-licence-applications\\Badger License Applications Part 2\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\ws000012\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\ws000012\\.nuget\\packages\\avalonedit\\6.1.3.50\\avalonedit.6.1.3.50.nupkg.sha512",
@@ -320,7 +320,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ws000012\\OneDrive - Defra\\Documents\\UiPath\\Badger License Applications Part 2\\.local",
+      "filePath": "C:\\Users\\ws000012\\OneDrive - Defra\\UiPath\\Github\\defra-badger-licence-applications\\Badger License Applications Part 2\\.local",
       "message": "Detected package version outside of dependency constraint: DRACOE.Logging.64 1.0.9 requires UiPath.System.Activities (= 23.10.6) but version UiPath.System.Activities 24.10.4 was resolved.",
       "libraryId": "UiPath.System.Activities",
       "targetGraphs": [
