@@ -25875,9 +25875,9 @@
     "restore": {
       "projectUniqueName": "Badger License Applications Part 2",
       "projectName": "Badger License Applications Part 2",
-      "projectPath": "C:\\Users\\ws000012\\OneDrive - Defra\\Documents\\UiPath\\Badger License Applications Part 2\\.local",
+      "projectPath": "C:\\Users\\ws000012\\OneDrive - Defra\\UiPath\\Github\\defra-badger-licence-applications\\Badger License Applications Part 2\\.local",
       "packagesPath": "C:\\Users\\ws000012\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ws000012\\OneDrive - Defra\\Documents\\UiPath\\Badger License Applications Part 2\\.local"
+      "outputPath": "C:\\Users\\ws000012\\OneDrive - Defra\\UiPath\\Github\\defra-badger-licence-applications\\Badger License Applications Part 2\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
